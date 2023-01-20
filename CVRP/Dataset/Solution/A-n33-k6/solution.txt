@@ -1,0 +1,156 @@
+C:\Users\Who\PycharmProjects\HardGame\venv\Scripts\python.exe C:/Users/Who/PycharmProjects/HardGame/Algorithm/ALNS.py
+Solution: Total cost = 1043.27, Routes = 
+[Route: Total cost = 170.89, load = 100.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 28	 (x, y) = 31 26		 demand = 21
+, Customer: ID = 32	 (x, y) = 26 36		 demand = 22
+, Customer: ID = 10	 (x, y) = 25 40		 demand = 1
+, Customer: ID = 14	 (x, y) = 35 45		 demand = 16
+, Customer: ID = 17	 (x, y) = 25 54		 demand = 17
+, Customer: ID = 11	 (x, y) =  9 66		 demand = 21
+, Customer: ID = 31	 (x, y) = 51  5		 demand = 2
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 186.23, load = 100.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 25	 (x, y) = 15 21		 demand = 11
+, Customer: ID = 21	 (x, y) = 11 35		 demand = 25
+, Customer: ID = 16	 (x, y) =  1  9		 demand = 7
+, Customer: ID = 30	 (x, y) =  6  6		 demand = 25
+, Customer: ID = 27	 (x, y) = 15  0		 demand = 11
+, Customer: ID = 24	 (x, y) = 75 20		 demand = 21
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 155.37, load = 98.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 1	 (x, y) = 45 55		 demand = 26
+, Customer: ID = 18	 (x, y) = 45 59		 demand = 17
+, Customer: ID = 6	 (x, y) = 45 60		 demand = 5
+, Customer: ID = 7	 (x, y) = 50 64		 demand = 15
+, Customer: ID = 19	 (x, y) = 45 71		 demand = 22
+, Customer: ID = 5	 (x, y) = 59 55		 demand = 7
+, Customer: ID = 3	 (x, y) = 81 70		 demand = 6
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 180.56, load = 100.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 13	 (x, y) = 50 54		 demand = 25
+, Customer: ID = 8	 (x, y) = 80 64		 demand = 16
+, Customer: ID = 4	 (x, y) = 85 61		 demand = 15
+, Customer: ID = 22	 (x, y) = 81 46		 demand = 16
+, Customer: ID = 26	 (x, y) = 90 45		 demand = 21
+, Customer: ID = 23	 (x, y) = 85 10		 demand = 7
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 206.24, load = 98.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 12	 (x, y) =  1 44		 demand = 66
+, Customer: ID = 29	 (x, y) = 10 95		 demand = 22
+, Customer: ID = 20	 (x, y) = 66 84		 demand = 10
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 143.98, load = 45.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 2	 (x, y) = 70 80		 demand = 17
+, Customer: ID = 15	 (x, y) = 71 84		 demand = 11
+, Customer: ID = 9	 (x, y) = 75 90		 demand = 17
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+]])
+1031.5130901437064
+1025.636488639403
+1019.0337246155461
+993.5145048816811
+980.9155180784614
+975.7144993503027
+966.4919267170926
+940.6961907607733
+910.2810153696774
+893.415276304311
+888.6712054910911
+879.2877152684971
+873.9270373322823
+873.9270373322822
+869.1501937007833
+867.2908683578405
+867.2908683578404
+863.108151235554
+860.6760835648927
+860.6760835648926
+858.3726946755118
+856.2006614894849
+853.5425822212803
+853.5425822212802
+851.5021982950398
+851.5021982950396
+847.8010457733598
+842.1558669297673
+842.1558669297672
+828.7413089468844
+817.8157190958368
+813.6099661123235
+811.7058290009838
+801.3010833876958
+800.7028025000963
+795.0841368768414
+791.2633087685583
+791.2633087685582
+789.5861753188072
+784.3602295296038
+784.320539199601
+776.9841037897063
+776.8646010425123
+769.9575783652963
+769.8034844618427
+763.9131160602485
+763.759545879053
+761.9532709405709
+757.4061578003141
+Solution: Total cost = 757.41, Routes = 
+[Route: Total cost = 88.14, load = 95.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 13	 (x, y) = 50 54		 demand = 25
+, Customer: ID = 19	 (x, y) = 45 71		 demand = 22
+, Customer: ID = 6	 (x, y) = 45 60		 demand = 5
+, Customer: ID = 18	 (x, y) = 45 59		 demand = 17
+, Customer: ID = 1	 (x, y) = 45 55		 demand = 26
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 92.92, load = 75.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 25	 (x, y) = 15 21		 demand = 11
+, Customer: ID = 16	 (x, y) =  1  9		 demand = 7
+, Customer: ID = 30	 (x, y) =  6  6		 demand = 25
+, Customer: ID = 27	 (x, y) = 15  0		 demand = 11
+, Customer: ID = 28	 (x, y) = 31 26		 demand = 21
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 198.68, load = 98.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 31	 (x, y) = 51  5		 demand = 2
+, Customer: ID = 23	 (x, y) = 85 10		 demand = 7
+, Customer: ID = 24	 (x, y) = 75 20		 demand = 21
+, Customer: ID = 26	 (x, y) = 90 45		 demand = 21
+, Customer: ID = 4	 (x, y) = 85 61		 demand = 15
+, Customer: ID = 8	 (x, y) = 80 64		 demand = 16
+, Customer: ID = 22	 (x, y) = 81 46		 demand = 16
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 162.16, load = 99.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 5	 (x, y) = 59 55		 demand = 7
+, Customer: ID = 3	 (x, y) = 81 70		 demand = 6
+, Customer: ID = 2	 (x, y) = 70 80		 demand = 17
+, Customer: ID = 15	 (x, y) = 71 84		 demand = 11
+, Customer: ID = 9	 (x, y) = 75 90		 demand = 17
+, Customer: ID = 20	 (x, y) = 66 84		 demand = 10
+, Customer: ID = 7	 (x, y) = 50 64		 demand = 15
+, Customer: ID = 14	 (x, y) = 35 45		 demand = 16
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 72.27, load = 91.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 12	 (x, y) =  1 44		 demand = 66
+, Customer: ID = 21	 (x, y) = 11 35		 demand = 25
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+], Route: Total cost = 143.24, load = 83.00, Customers = 
+[Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+, Customer: ID = 32	 (x, y) = 26 36		 demand = 22
+, Customer: ID = 10	 (x, y) = 25 40		 demand = 1
+, Customer: ID = 17	 (x, y) = 25 54		 demand = 17
+, Customer: ID = 29	 (x, y) = 10 95		 demand = 22
+, Customer: ID = 11	 (x, y) =  9 66		 demand = 21
+, Customer: ID = 0	 (x, y) = 34 31		 demand = 0
+]])
+[1.2173913043478262, 1.25, 2.0, 1.131578947368421]
+[1.5087719298245614, 1.1162790697674418]
